@@ -1,4 +1,4 @@
-#Reduced MNIST (RMNIST)
+# Reduced MNIST (RMNIST)
 
 MNIST ("Modified National Institute of Standards and Technology") is a widely available data set for digit recognition. Each image of digit is written as a 28 x 28 matrix with values 0-255, representing its color in grayscale (0 as black, 255 as white). MNIST has 42,000 images for training and 28,000 images for testing.
 
